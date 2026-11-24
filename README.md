@@ -1,4 +1,4 @@
-[reviewedCTD.py](https://github.com/user-attachments/files/35373652/reviewedCTD.py)
+
 # This program retrieves country data from a public API
 # and displays information about the first few countries.
 
